@@ -1,8 +1,4 @@
-- I am Sanat Rao, a high schooler aspiring to one day go into Bioinformatics
-- I am currently taking many courses (specifically in R, SQL, Biopython, shell scripting, and C++)
-- You can reach me at sanatrao13@gmail.com
-
-<!---
-SanatRao13/SanatRao13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Sanat Rao, a North Carolina high schooler.
+I want to learn more about Bioinformatics and using coding skills for data analysis.
+I work with Arduino and Python most often, but I have some experience in Linux VM for Bioinformatics.
+You can reach me at sanatrao13@gmail.com
